@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\bin\Debug\LukaIvanic.exe.config
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\bin\Debug\LukaIvanic.exe
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\bin\Debug\LukaIvanic.pdb
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.Form1.resources
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.exe
+C:\Users\Ucenik\source\repos\LukaIvanic\LukaIvanic\obj\Debug\LukaIvanic.pdb
